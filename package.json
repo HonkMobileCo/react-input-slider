@@ -1,6 +1,6 @@
 {
   "name": "react-input-slider",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "React input slider component",
   "main": "index.js",
   "scripts": {
@@ -29,8 +29,8 @@
   },
   "homepage": "https://github.com/wangzuo/react-input-slider",
   "peerDependencies": {
-    "react": "^0.14.0",
-    "react-dom": "^0.14.0"
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
   },
   "devDependencies": {
     "babel-core": "^6.1.2",
